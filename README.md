@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BhagyeshThakur
 - 👀 I’m interested in Blockchain Technology
-- 🌱 I’m currently learning Blockchain Development
+- 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on Smart Contracts
 - 📫 You can mail me at bhagyesh.v.thakur@gmail.com
